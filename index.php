@@ -22,6 +22,9 @@
   <li class="list-group-item">
     <a href="http://kjshao.xyz/Calendar/field/index.php">化物所礼堂信息查询系统</a>
   </li>
+  <li class="list-group-item">
+    <a href="https://github.com/kjshao">My GitHub Home Page</a>
+  </li>
 </ul>
 </div>
 </body>
