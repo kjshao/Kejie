@@ -14,7 +14,7 @@
 <div class="jumbotron text-center">
   <br><br>
   <div class="container-fluid">
-    <h2>Kejie Shao's Home Page</h2> 
+    <h2>Welcome!</h2> 
   </div>
 </div>
 <div id="links" class="container-fluid">
