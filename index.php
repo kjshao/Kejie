@@ -14,13 +14,13 @@
 <div class="jumbotron text-center">
   <br><br>
   <div class="container-fluid">
-    <h2>Welcome!</h2> 
+    <h2>Welcome!</h2>
   </div>
 </div>
 <div id="links" class="container-fluid">
 <ul class="list-group">
   <li class="list-group-item">
-    <a href="http://kjshao.xyz/Calendar/field/index.php">化物所礼堂信息查询系统</a>
+    <a href="http://kjshao.xyz/Calendar">化物所礼堂信息查询系统</a>
   </li>
   <li class="list-group-item">
     <a href="https://github.com/kjshao">My GitHub Home Page</a>
