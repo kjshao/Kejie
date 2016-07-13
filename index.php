@@ -37,17 +37,17 @@
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="Kejie/1.png" data-action="zoom">
+      <img src="Kejie/1.jpg" data-action="zoom">
     </div>
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="Kejie/2.png" data-action="zoom">
+      <img src="Kejie/2.jpg" data-action="zoom">
     </div>
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="Kejie/3.png" data-action="zoom">
+      <img src="Kejie/3.jpg" data-action="zoom">
     </div>
   </div>
 </div>
