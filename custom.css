@@ -1,0 +1,12 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(./bg.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
+    -moz-box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
+    box-shadow: 10px 10px 22px -7px rgba(0,0,0,0.8);
+    color: rgba(147,131,181,1);
+    text-shadow: 0.3em 0.3em 0.3em rgba(147,131,181,1);
+}
